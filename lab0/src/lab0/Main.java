@@ -1,5 +1,5 @@
 package lab0;
-//4toto novoe2222
+//4toto novoe
 import java.awt.FlowLayout;
 
 import javax.swing.JButton;
