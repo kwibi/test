@@ -42,7 +42,7 @@ public class mainWindow {
 	 */
 	private void initialize() {
 		frame = new JFrame();
-		frame.setBounds(100, 100, 590, 372);
+		frame.setBounds(101, 100, 590, 372);
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		frame.getContentPane().setLayout(null);
 		
